@@ -14,3 +14,8 @@ sudo systemctl start mariadb
 ```bash
 mysql -u root
 ```
+
+## Install mysql.connector :
+```bash
+pip install mysql-connector-python
+```
