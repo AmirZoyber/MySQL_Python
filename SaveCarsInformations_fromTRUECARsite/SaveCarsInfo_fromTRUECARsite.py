@@ -1,3 +1,8 @@
+#!/usr/bash/python3
+# Author : AmirZyber
+# You Can Find Me Here : 
+#                        https://zil.ink/AmirZoyber
+
 import requests
 import re
 import mysql.connector
