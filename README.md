@@ -3,19 +3,19 @@ Use MySQL in Python, Examples!
 
 ## Install MYSQL on Linux :
 ```bash
-sudo apt install mariadb-server mariadb
+$ sudo apt install mariadb-server mariadb
 ```
 ```bash
-mariadb-service-convert
+$ mariadb-service-convert
 ```
 ```bash
-sudo systemctl start mariadb
+$ sudo systemctl start mariadb
 ```
 ```bash
-mysql -u root
+$ mysql -u root
 ```
 
 ## Install mysql.connector :
 ```bash
-pip install mysql-connector-python
+$ pip install mysql-connector-python
 ```
