@@ -2,7 +2,7 @@
 Use MySQL in Python, Examples!  
   
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](https://www.youtube.com/channel/UCQuvYvdrmJ0S2Mwweactvkw)  
+[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](https://www.zil.ink/amirzoyber)  
 
 ## Install MYSQL on Linux :
 ```bash
